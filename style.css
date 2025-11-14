@@ -1,0 +1,57 @@
+* {
+    width: 100% !important;
+}
+
+#navbar {
+    background-color: #198754 !important;
+}
+
+a {
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.dropdown-menu a {
+    color: rgb(255, 255, 255) !important;
+    font-weight: 600 !important;
+}
+
+.dropdown-menu a:hover {
+    color: rgb(0, 0, 0) !important;
+    font-weight: 600 !important;
+}
+
+.dropdown-menu {
+    background: #198754aa !important;
+}
+
+#navbarSupportedContent {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: end !important;
+    margin-right: 2vw !important;
+}
+
+#horta img {
+    width: 100% !important;
+    height: 20vh !important;
+    object-fit: cover !important;
+}
+
+#destaquesDaSemana {
+    text-align: center !important;
+    padding: 2vw !important;
+}
+
+#cards {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100vw !important;
+    gap: 20px !important;
+}
+
+.card {
+    height: 60vh !important;
+    width: 25vw !important;
+}
